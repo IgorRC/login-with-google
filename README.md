@@ -6,6 +6,4 @@
 
 ### `npm install react-google-login --force`
 
-### `npm install`
-
 ### `npm run dev`
